@@ -47,3 +47,4 @@ a:hover {
   background-color: rgb(255, 0, 0);
   font-size: 18px;
 }
+/* I used a hover element so that when the mouse goes over the box I made it should become red, creating a feedback element so that people know that it's clickable. This is important since we need a confirmation that the item is clickable before using it. I also used an outline block to drive home the concept that it is clickable. */
