@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(178, 243, 252);
+    color: black;rgb(83, 11, 11)rgb(83, 76, 11)rgb(233, 216, 66)rgb(66, 233, 224)rgb(123, 216, 211)
+    margin: 20px;
+
+}
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight: normal;
+}
+
+h2 {
+    color: navy;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.bio-image {
+        float: right;
+    width: 200px;
+    height: auto;
+    margin: 0 0 10px 20px;
+    border-radius: 10px;
+    border: 2px solid #333;
+}
+ol {
+color: rgb(46, 3, 3)    
+} 
+a {
+    display: inline-block;
+    background-color: white;
+    color: navy;
+    padding: 10px 15px;
+    border: 2px solid navy;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 0 5px gray;
+}
+a:hover {
+  background-color: rgb(255, 0, 0);
+  font-size: 18px;
+}
